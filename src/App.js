@@ -35,9 +35,9 @@ function App() {
 
         <p>By clicking on Register, you agree to our
           <br />
-          <a href="#">Terms and Conditions</a>
+          <u>Terms & Conditions.</u>
         </p>
-        <a href="#" className="button">Register</a>
+        <button type="button" class="btn btn-primary">Register</button>
       </form>
     </div>
   )
